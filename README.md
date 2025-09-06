@@ -2,7 +2,6 @@
 
 An experimental multi‑agent workflow that **researches a news topic and drafts a publishable markdown article** using [CrewAI](https://github.com/crewAIInc/crewAI) for orchestration and **Google Gemini** for language generation.
 
-> This README is a polished starting point based on the repository’s current file layout. Plug in any missing specifics from your code (model name, tool choices, and parameters) where noted.
 
 ---
 
