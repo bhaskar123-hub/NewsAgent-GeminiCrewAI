@@ -41,6 +41,7 @@ pip install -r requirements.txt
 ### 3) Configure secrets
 
 Create a `.env` file in the project root (never commit real keys):
+(PS - the keys which i committed won't work since its masked one's)
 
 ```dotenv
 # Required for Gemini
